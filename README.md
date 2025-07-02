@@ -1,4 +1,5 @@
 🔥 Cosmetics Insights 🔥
+
 A Data Analytics project focused on extracting valuable insights from cosmetics sales data through visualizations, dashboards, and storytelling.
 
  🎯 Project Goal
