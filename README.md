@@ -27,7 +27,7 @@ The main goal of this project is to analyze cosmetics sales and customer behavio
 4. **Insights & Storytelling:** Explained key patterns and business recommendations.
 
  📁 Dataset
-
+Source : Kaggle Dataset
 The dataset includes:
 - Product categories (e.g., skincare, makeup, haircare)
 - Sales records with dates and regions
@@ -55,5 +55,6 @@ The dataset includes:
 
 **B N Praneetha**  
 Student at BVCITS  
-Data Analytics Project – 2025
-
+Internship Platform: SmartInternz 
+Data Analytics with Tableau Project Completed - June 2025
+Team ID : LTVIP2025TMID51607
